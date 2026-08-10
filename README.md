@@ -9,6 +9,8 @@ Web of Science ResearcherID: QQZ-6739-2026 | ORCID: 0009-0004-4378-5298
 ### Live Site
 - GitHub Pages: [https://anticipatedd.github.io/mdhossain](https://anticipatedd.github.io/mdhossain)
 
+[![Mr. MD ABUL HOSSAIN – Architect of Vane-Space-SLA (v1.0)](My_VANE_SPACE_SLA1.jpg)](https://anticipatedd.github.io/mdhossain)
+
 ### Overview
 This is a production-ready, fully static enterprise portfolio website presenting verified professional achievements, technical credentials, and Horizon Europe related work.
 
