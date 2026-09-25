@@ -1,8 +1,8 @@
 # MD ABUL HOSSAIN – Enterprise Portfolio
 
 **SVP & Head of Strategic Partnerships | TARU Global Access**  
-European F&T Expert (EX2026D1473148) | IBM Business Partner Plus  
-Web of Science ResearcherID: QQZ-6739-2026 | ORCID: 0009-0004-4378-5298
+European F&T Expert | IBM Business Partner Plus  
+Web of Science Researcher| ORCID
 
 ---
 
