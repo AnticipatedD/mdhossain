@@ -1,8 +1,11 @@
 # MD ABUL HOSSAIN – Enterprise Portfolio
 
-**SVP & Head of Strategic Partnerships | TARU Global Access**  
-European F&T Expert | IBM Business Partner Plus  
-Web of Science Researcher| ORCID
+![Elite Profile](https://img.shields.io/badge/MD_Abul_Hossain-Enterprise_Cloud_Expert_%7C_Microsoft_Partner-0f0f23?style=for-the-badge&logo=microsoft&logoColor=9400D3&labelColor=16213e)
+![Masterpiece](https://img.shields.io/badge/★_Elite_Cloud_Architect-Microsoft_%2B_IBM_Partner-0f0f23?style=for-the-badge&logo=windows&logoColor=00bcf2&labelColor=000000) 
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-170_Badges-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Trophies](https://img.shields.io/badge/Trophies-34-FFB900?style=flat-square&logo=trophy&logoColor=white)
+![Level](https://img.shields.io/badge/Level-12-107C41?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Partner](https://img.shields.io/badge/Microsoft-Business_Partner-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
