@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /mdhossain/
+
+# Link directly to your custom subdomain sitemap path
+Sitemap: https://anticipatedd.github.io/mdhossain/
