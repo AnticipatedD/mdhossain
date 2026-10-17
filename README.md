@@ -2,9 +2,9 @@
 
 ![Elite Profile](https://img.shields.io/badge/MD_Abul_Hossain-Enterprise_Cloud_Expert_%7C_Microsoft_Partner-0f0f23?style=for-the-badge&logo=microsoft&logoColor=9400D3&labelColor=16213e)
 ![Masterpiece](https://img.shields.io/badge/★_Elite_Cloud_Architect-Microsoft_%2B_IBM_Partner-0f0f23?style=for-the-badge&logo=windows&logoColor=00bcf2&labelColor=000000) 
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-170_Badges-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Trophies](https://img.shields.io/badge/Trophies-34-FFB900?style=flat-square&logo=trophy&logoColor=white)
-![Level](https://img.shields.io/badge/Level-12-107C41?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-224_Badges-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Trophies](https://img.shields.io/badge/Trophies-43-FFB900?style=flat-square&logo=trophy&logoColor=white)
+![Level](https://img.shields.io/badge/Level-13-107C41?style=flat-square&logo=microsoft&logoColor=white)
 ![Microsoft Partner](https://img.shields.io/badge/Microsoft-Business_Partner-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
@@ -18,9 +18,9 @@
 This is a production-ready, fully static enterprise portfolio website presenting verified professional achievements, technical credentials, and Horizon Europe related work.
 
 **Key Highlights**
-- 67 IBM credentials & training modules
-- 58 Microsoft Learn badges + 10 trophies
-- AlphaNova Tech Competition: Global Leaderboard #28 | Individual Rank 58/873
+- 87 IBM credentials & training modules
+- 224 Microsoft Learn badges + 43 trophies
+- AlphaNova Tech Competition: Global Leaderboard #28 | Individual Rank 57/873
 - Official EU Publications Office widget & Horizon Europe Pillar II integration
 - Interactive credential registries with filtering
 - Dedicated architecture modules (M2M OAuth Isolation & Voice Orchestrator)
