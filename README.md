@@ -5,7 +5,8 @@
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-224_Badges-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Trophies](https://img.shields.io/badge/Trophies-43-FFB900?style=flat-square&logo=trophy&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-13-107C41?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Partner](https://img.shields.io/badge/Microsoft-Business_Partner-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Partner](https://img.shields.io/badge/Microsoft-Business_Partner-00A4EF?style=flat-square&logo=microsoft&logoColor=white) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
