@@ -15,6 +15,15 @@
 
 [![Mr. MD ABUL HOSSAIN – Architect of Vane-Space-SLA (v1.0)](My_VANE_SPACE_SLA1.jpg)](https://anticipatedd.github.io/mdhossain)
 
+## Join Me on Lounge.ai
+
+<a href="https://lounge.ai/@mdhossain">
+  <img src="https://lounge.ai/api/badge/mdhossain" alt="Md Abul Hossain on Lounge" height="28">
+</a>
+
+👉 [Official Invite Link](https://lounge.ai/r/@mdhossain)  
+💡 Or use my invite code: **MDHOSSAIN967**
+
 ### Overview
 This is a production-ready, fully static enterprise portfolio website presenting verified professional achievements, technical credentials, and Horizon Europe related work.
 
