@@ -21,8 +21,17 @@
   <img src="https://lounge.ai/api/badge/mdhossain" alt="Md Abul Hossain on Lounge" height="28">
 </a>
 
-👉 [Official Invite Link](https://lounge.ai/r/@mdhossain)  
+👉 [lounge.ai](https://lounge.ai/r/@mdhossain)  
 💡 Or use my invite code: **MDHOSSAIN967**
+
+## 🚀 Join the AI Builders Lounge
+
+I’m one of the first 1,000 members of [lounge.ai](https://lounge.ai/r/@mdhossain), a private community where founders, researchers, and developers share deals, funding opportunities, and cutting‑edge AI projects.  
+
+Use my invite link or code **MDHOSSAIN967** to join — you’ll unlock access to weekly AI digests, perks worth thousands in credits, and direct networking with top builders.  
+
+👉 [Join via my official referral link](https://lounge.ai/r/@mdhossain)
+
 
 ### Overview
 This is a production-ready, fully static enterprise portfolio website presenting verified professional achievements, technical credentials, and Horizon Europe related work.
